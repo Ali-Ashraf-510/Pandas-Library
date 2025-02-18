@@ -1,4 +1,5 @@
 # Pandas Basics - Quick Reference Guide
+![image](https://github.com/user-attachments/assets/ffc8455f-5b00-4cd6-ab22-099270fe5784)
 
 ## 1. Inspecting Data
 
